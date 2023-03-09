@@ -1,0 +1,35 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        ".vs",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Jonas Gjul/Downloads/Game Boy Advance - The Legend of Zelda The Minish Cap - South Hyrule Field.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.imagePath": "C:/Users/Jonas Gjul/Downloads",
+    "map.height": 120,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 120,
+    "openFiles": [
+        "C:/Users/Jonas Gjul/Downloads/Game Boy Advance - The Legend of Zelda The Minish Cap - South Hyrule Field.tsx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "C:/Users/Jonas Gjul/Downloads/Game Boy Advance - The Legend of Zelda The Minish Cap - South Hyrule Field.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
