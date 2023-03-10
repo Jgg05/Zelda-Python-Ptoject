@@ -27,6 +27,10 @@ class Game:
 
 if __name__ == '__main__':
 	game = Game()
+<<<<<<< HEAD
 	game.run()	
 	#test 2
 	#Test 3
+=======
+	game.run()	
+>>>>>>> Test
